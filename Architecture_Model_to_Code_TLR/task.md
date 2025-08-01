@@ -18,7 +18,7 @@ Output Format: A CSV file representing the trace links between model elements an
 
 Example: A snippet from the dataset capturing the relevant format knowledge. (Can be provided in a single markdown with input and output format)
 
-Dataset URL: https://github.com/ArDoCo/Benchmark and https://doi.org/10.5281/zenodo.6966831
+Dataset URL: https://github.com/ardoco/benchmark and https://doi.org/10.5281/zenodo.6966831
 
 Metrics:
 - Precision: The ratio of correctly identified trace links to the total number of identified trace links.

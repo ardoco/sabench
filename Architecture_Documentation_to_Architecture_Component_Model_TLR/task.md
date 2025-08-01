@@ -2,7 +2,7 @@ Title: Architecture Documentation to Architecture Component Model Traceability L
 
 Title (Short for Leaderboard): Documentation to Component Model TLR
 
-Description: This task involves the extraction of traceability links between architecture documentation and architecture component models. The goal is to identify and establish connections between textual descriptions in architecture documentation and corresponding components in architecture models.
+Description: This task involves the extraction of trace links between architecture documentation and architecture component models. The goal is to identify and establish connections between textual descriptions in architecture documentation and corresponding components in architecture models.
 The granularity of the task is at the sentence level, where each sentence in the architecture documentation is linked to a specific architecture component or interface in the model.
 
 Description (Short for Leaderboard): Evaluation of automated traceability link recovery (TLR) approaches for architecture documentation sentences to architecture components TLR.
@@ -16,7 +16,7 @@ Output Format: A CSV file representing the trace links between components and se
 
 Example : A snippet from the dataset capturing the relevant format knowledge. (Can be provided in a single markdown with input and output format)
 
-Dataset URL: https://github.com/ArDoCo/Benchmark and https://doi.org/10.5281/zenodo.6966831
+Dataset URL: https://github.com/ardoco/benchmark and https://doi.org/10.5281/zenodo.6966831
 
 Metrics:
 - Precision: The ratio of correctly identified trace links to the total number of identified trace links.
